@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freelancekithq-cyber.github.io/freelancekit/sitemap.xml
